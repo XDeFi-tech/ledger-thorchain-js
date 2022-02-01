@@ -1,5 +1,5 @@
 {
-  "name": "@thorchain/ledger-thorchain",
+  "name": "@xdefi-tech/ledger-thorchain",
   "version": "0.1.0-alpha.2",
   "description": "Node API for THORChain App (Ledger Nano S/X)",
   "main": "lib/index.js",
